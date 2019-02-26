@@ -1,5 +1,3 @@
-// Steven Rebelo 2314787
-package cop2251.fall18.week5.rebelo;
 
 import java.io.*;
 import javax.swing.JFileChooser;
