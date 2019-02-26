@@ -1,5 +1,3 @@
-// Steven Rebelo 2314787
-package cop2251.fall18.week4.rebelo;
 
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
