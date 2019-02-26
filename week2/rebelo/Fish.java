@@ -1,6 +1,3 @@
-// Steven Rebelo 2314787
-
-package cop2251.fall18.week2.rebelo;
 
 public abstract class Fish implements Comparable <Fish> {
 	// Variable
