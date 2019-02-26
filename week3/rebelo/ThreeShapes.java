@@ -1,5 +1,4 @@
-// Steven Rebelo 2314787
-package cop2251.fall18.week3.rebelo;
+
 
 import javafx.application.Application;
 import javafx.scene.Group;
