@@ -1,4 +1,3 @@
-package cop2251.fall18.week6.rebelo;
 
 // Imports
 import java.text.DateFormat;
