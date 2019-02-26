@@ -1,4 +1,4 @@
-package cop2251.fall18.week6.rebelo;
+
 
 //Interface
 	public interface Payment {
