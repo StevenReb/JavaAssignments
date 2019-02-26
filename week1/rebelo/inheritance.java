@@ -1,6 +1,3 @@
-// Steven Rebelo 2314787
-
-package cop2251.fall18.week1.rebelo;
 
 
 public class inheritance {
