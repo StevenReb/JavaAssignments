@@ -1,5 +1,4 @@
-// Steven 2314787
-package cop2251.fall18.week7.rebelo;
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
